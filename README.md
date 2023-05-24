@@ -1,3 +1,3 @@
 # latinphrases
 
-    ###Igne natura renovatur integra. - Through fire, nature is reborn whole.
+    Igne natura renovatur integra. - Through fire, nature is reborn whole.
